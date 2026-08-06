@@ -299,10 +299,10 @@ Open them at [app.diagrams.net](https://app.diagrams.net) (draw.io).
 
 | Diagram | File |
 |---------|------|
-| System Architecture | `diagrams/system-architecture.drawio` |
-| Hardware Wiring | `diagrams/wiring-diagram.drawio` |
-| Use Case Diagram | `diagrams/use-case-diagram.drawio` |
-| Activity Diagram | `diagrams/activity-diagram.drawio` |
+| System Architecture | [Open Full Diagram](diagrams/system-architecture.png) |
+| Hardware Wiring | [Open Full Diagram](diagrams/wiring-diagram.png) |
+| Use Case Diagram | [Open Full Diagram](diagrams/use-case-diagram.png) |
+| Activity Diagram | [Open Full Diagram](diagrams/activity-diagram.png) |
 
 ---
 
