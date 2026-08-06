@@ -294,8 +294,6 @@ MONITOR ALWAYS →  RSSI, packet counters, and online/offline status tracked
 
 ## 📐 Diagrams
 
-All diagrams are available in `diagrams/` folder as `.drawio` files.
-Open them at [app.diagrams.net](https://app.diagrams.net) (draw.io).
 
 | Diagram | File |
 |---------|------|
