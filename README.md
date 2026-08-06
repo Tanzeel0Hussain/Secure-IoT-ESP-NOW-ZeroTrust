@@ -38,26 +38,9 @@ The project demonstrates a **decentralized, infrastructure-free IoT network** us
 
 The network consists of **4 ESP32 nodes** communicating via **ESP-NOW broadcast**:
 
-```
-  SENSOR NODE 1                    SENSOR NODE 2
-  [ESP32 + BMP280 + Button]        [ESP32 + BMP280 + Button]
-         |                                |
-         |----------- Broadcast ----------|------------|
-                  (FF:FF:FF:FF:FF:FF)                  |
-                                          |            |
-                              +-----------+------------+
-                              |                        |
-                    DISPLAY NODE 3            DISPLAY NODE 4
-                 [ESP32 + SH1106 + Button] [ESP32 + SH1106 + Button]
-                              |
-                              |-------- RESET Command (Broadcast) -------->
+![System Architecture](diagrams/system-architecture.png)
 
-  Protocol : ESP-NOW (2.4 GHz WiFi PHY)
-  Range    : 200 - 480 metres (open area)
-  No Router | No Access Point | No Internet | No Cloud
-```
-
-> 📌 **Diagram:** See `diagrams/system-architecture.drawio` — open with [draw.io](https://app.diagrams.net)
+> 📌 **Diagram:** [Open Full Size Diagram](diagrams/system-architecture.png)
 
 ---
 
