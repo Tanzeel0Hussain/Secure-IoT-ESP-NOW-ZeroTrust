@@ -80,7 +80,7 @@ The network consists of **4 ESP32 nodes** communicating via **ESP-NOW broadcast*
 
 > 📌 **I2C Addresses:** BMP280 = `0x76` | SH1106 OLED = `0x3C` — No address conflict on shared bus.
 
-> 📌 **Wiring Diagram:** See `diagrams/wiring-diagram.drawio`
+> 📌 **Wiring Diagram:** See [Open Full Diagram](diagrams/wiring-diagram.png)
 
 ---
 
