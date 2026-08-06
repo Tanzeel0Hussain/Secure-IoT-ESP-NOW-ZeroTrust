@@ -331,7 +331,7 @@ This project is for academic purposes under **MIT License**.
 
 <div align="center">
 
-**Iqra University Islamabad — BS Computer Science — Final Year Project 2025**
+**Iqra University Islamabad — BS Computer Science — Final Year Project 2026**
 
 *"Never Trust. Always Verify."*
 
